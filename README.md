@@ -3,7 +3,12 @@ Ready to use Tailwind CSS powered landing page.
 
 ## License
 
-Creative Commons 4.0 - Attribution required
+Creative Commons 4.0 - Attribution required. 
+You MUST retain all copyright notices and backlinks to Creative Foundry.
+
+## Demo
+
+https://oss.sellflo.ai/template-1/index.html
 
 ## Important Note
 
